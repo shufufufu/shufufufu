@@ -1,12 +1,17 @@
 <h2 align="left">Hi 👋! </h2>
 
 ---
+</em></p>
+<img align='right' src="https://media.giphy.com/media/8Lb8TPY7l2T9Mc1QIW/giphy.gif?cid=ecf05e47buuluxhtu90lkip66b9wo2g61mdqrp7069kesj49&ep=v1_stickers_search&rid=giphy.gif&ct=s" height="250">
+
+
 
 ```js
 const FrontEndDeveloper = {};
 const shufufufu = Object.create(FrontEndDeveloper)
   shufufufu.from = '福建龙岩'
   shufufufu.university = 'Central China Normal University'
+  shufufufu.motto = '事以密成 言以泄败'
   shufufufu.target = function () {
       setTimeout(() => {
           shufufufu.identity = 'Do a few meaningful things'
@@ -16,8 +21,8 @@ const shufufufu = Object.create(FrontEndDeveloper)
 
 ---
 
-<div align = "center">
-<img src="https://media.giphy.com/media/jf8FsS1JGOXmg/giphy.gif?cid=790b7611fvjddyshfzyty0bdy7zw5173zwazcnbc8pixki20&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<div align = "center" padding = "500">
+<img src="https://media.giphy.com/media/jf8FsS1JGOXmg/giphy.gif?cid=790b7611fvjddyshfzyty0bdy7zw5173zwazcnbc8pixki20&ep=v1_stickers_search&rid=giphy.gif&ct=s" >
 <div/>
 
 <div align="center">
@@ -26,6 +31,7 @@ const shufufufu = Object.create(FrontEndDeveloper)
 </div>
 
 ###
+
 
 ###
 
