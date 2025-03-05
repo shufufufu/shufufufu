@@ -1,6 +1,24 @@
 <h2 align="left">Hi 👋! </h2>
 
-###
+---
+
+```js
+const FrontEndDeveloper = {};
+const shufufufu = Object.create(FrontEndDeveloper)
+  shufufufu.from = '福建龙岩'
+  shufufufu.university = 'Central China Normal University'
+  shufufufu.target = function () {
+      setTimeout(() => {
+          shufufufu.identity = 'Do a few meaningful things'
+      }, Infinity)
+  }
+```
+
+---
+
+<div align = "center">
+<img src="https://media.giphy.com/media/jf8FsS1JGOXmg/giphy.gif?cid=790b7611fvjddyshfzyty0bdy7zw5173zwazcnbc8pixki20&ep=v1_stickers_search&rid=giphy.gif&ct=s">
+<div/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shufufufu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -8,8 +26,6 @@
 </div>
 
 ###
-
-<img src="https://media.giphy.com/media/l2SpQQIiN6ueZPGXm/giphy.gif?cid=790b7611u0vhp3nwbqbraw8wfra7duqr4gyaf69mb0wftja4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ###
 
