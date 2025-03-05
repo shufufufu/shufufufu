@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shufufufu/shufufufu/output/snake.svg" alt="Snake animation" />
+![sanke](https://github.com/shufufufu/shufufufu/blob/output/github-contribution-grid-snake.svg)
 
 ###
