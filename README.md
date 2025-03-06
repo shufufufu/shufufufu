@@ -29,7 +29,7 @@ const shufufufu = Object.create(FrontEndDeveloper)
 
 ---
 
-<div align = "center" padding = "500">
+<div align = "center">
 
 <div/>
 
@@ -41,7 +41,7 @@ const shufufufu = Object.create(FrontEndDeveloper)
 
 </div>
 
----
+
 
 ###
 <table><tr><td valign="top" width="33%">
@@ -73,7 +73,11 @@ const shufufufu = Object.create(FrontEndDeveloper)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premiere/premiere-original.svg" height="30" alt="premiere logo"  />
+  <img src="https://github.com/shufufufu/shufufufu/blob/main/assets/Adobe%20Lr.png" height="32" alt="premiere logo"  />
+
+  <img src="https://github.com/shufufufu/shufufufu/blob/main/assets/Adobe%20Pr.png" height="32" alt="premiere logo"  />
+  
+  <img src="https://github.com/shufufufu/shufufufu/blob/main/assets/%E5%89%AA%E6%98%A0.png" height="32" alt="premiere logo"  />
   
 ![adobe](https://img.shields.io/badge/adobe-ff4000.svg?style=for-the-badge&logo=adobe&logoColor=White)
 
