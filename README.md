@@ -108,6 +108,7 @@ const shufufufu = Object.create(FrontEndDeveloper)
 
 
 ![vs](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![taro](https://img.shields.io/badge/taro-00ADD8?style=for-the-badge&logo=taro&logoColor=white)
 ![vite](https://img.shields.io/badge/vite-666afd?style=for-the-badge&logo=vite&logoColor=white)
 
 </td>
