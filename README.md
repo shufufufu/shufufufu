@@ -27,6 +27,8 @@ const shufufufu = Object.create(FrontEndDeveloper)
   }
 ```
 
+
+[![](https://img.shields.io/endpoint?url=https://awards.antv.vision/shufufufu-g2-contributor.json)](https://github.com/antvis/g2)
 ---
 
 <div align = "center">
